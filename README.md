@@ -50,18 +50,26 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lekhanpro&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lekhanpro&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lekhanpro&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lekhanpro&theme=tokyonight&hide_border=false" height="180"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekhanpro&langs_count=8&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekhanpro&langs_count=8&layout=compact&theme=tokyonight&hide_border=false" height="165"/>
 </p>
 
 ---
 
-### 📈 Activity Graph  
-[![Lekhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lekhanpro&bg_color=0d1117&color=4CAF50&line=4CAF50&point=FFFFFF&area=true&hide_border=true)](https://github.com/lekhanpro)
-[![Lekhan's github activity graph_summery](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lekhanpro&theme=github_dark)](https://github.com/lekhanpro)
+### 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lekhanpro&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=false" alt="Contribution Graph"/>
+</p>
+
+---
+
+### 📊 Profile Summary  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lekhanpro&theme=tokyonight" alt="Profile Summary"/>
+</p>
 
 ---
 
@@ -102,4 +110,5 @@
 ---
 
 <p align="center">⭐ Thanks for visiting! Keep coding and keep creating 🚀</p>
+
 
