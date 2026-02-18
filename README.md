@@ -6,8 +6,8 @@
 <!-- 🌌 ANIMATED STARFIELD HEADER -->
 <img width="100%" src="./assets/starfield.svg" alt="Animated starfield with twinkling stars and nebulae"/>
 
-<!-- 🪐 COSMIC HEADER BANNER — Deep space gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0f2e,15:1a1050,35:667eea,50:764ba2,65:f093fb,85:a29bfe,100:0a0f2e&height=180&section=header&text=%E2%9C%A8%20Lekhan%20H%20R%20%F0%9F%9A%80&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%E2%98%81%EF%B8%8F%20CS%20Student%20%C2%B7%20Cloud%20Computing%20%C2%B7%20Blockchain%20%C2%B7%20Full-Stack%20Developer&descSize=15&descAlignY=62&descColor=e0d4ff"/>
+<!-- 🪐 COSMIC HEADER BANNER — Deep space gradient with clear text -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2e,20:1a1050,40:667eea,60:764ba2,80:f093fb,100:a29bfe&height=250&section=header&text=Lekhan%20H%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=CS%20Student%20%E2%80%A2%20Cloud%20Computing%20%E2%80%A2%20Blockchain%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descAlignY=52&descColor=ffffff"/>
 
 <div align="center">
 
@@ -27,13 +27,9 @@
 
 <br/>
 
-<!-- 🐍 Snake Animation -->
+<!-- 🪐 Animated Solar System -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lekhanpro/lekhanpro/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lekhanpro/lekhanpro/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/lekhanpro/lekhanpro/output/github-snake-dark.svg" />
-  </picture>
+  <img src="./assets/solar-system.svg" width="300" alt="Animated solar system with orbiting planets"/>
 </div>
 
 <!-- ✦ Star divider ✦ -->
@@ -115,16 +111,7 @@ const lekhan = {
 <!-- ✦ Star divider ✦ -->
 <img width="100%" src="./assets/starfield-divider.svg"/>
 
-<!-- ═══════════════════ SOLAR SYSTEM + TECH ═══════════════════ -->
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Constellation
-
-<!-- 🪐 Animated Solar System -->
-<img src="./assets/solar-system.svg" width="280" alt="Animated solar system with orbiting planets"/>
-
-</div>
+<!-- ═══════════════════ TECH ARSENAL ═══════════════════ -->
 
 <div align="center">
 
