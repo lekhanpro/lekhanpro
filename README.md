@@ -17,7 +17,7 @@
 <br/>
 
 <!-- 🔗 Profile badges — cosmic style -->
-<a href="https://lekhan-portfolio.vercel.app"><img src="https://img.shields.io/badge/%E2%9C%A8_Portfolio-Explore-667eea?style=for-the-badge&labelColor=0a0f2e"/></a>
+<a href="https://lekhanhr.online"><img src="https://img.shields.io/badge/%E2%9C%A8_Portfolio-Explore-667eea?style=for-the-badge&labelColor=0a0f2e"/></a>
 <a href="https://www.linkedin.com/in/lekhan-hr-507b89371"><img src="https://img.shields.io/badge/LinkedIn-Connect-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f2e"/></a>
 <img src="https://img.shields.io/badge/%F0%9F%93%8D_Bengaluru-India-f093fb?style=for-the-badge&labelColor=0a0f2e"/>
 <img src="https://img.shields.io/badge/%F0%9F%8E%93_B.E.-Computer_Science-a29bfe?style=for-the-badge&labelColor=0a0f2e"/>
